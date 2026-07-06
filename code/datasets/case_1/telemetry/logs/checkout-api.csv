@@ -1,0 +1,5 @@
+timestamp,level,message
+2026-01-01T09:58:00Z,INFO,checkout-api handled requests normally
+2026-01-01T10:00:10Z,ERROR,checkout-api request failed: database connection pool exhausted
+2026-01-01T10:01:00Z,ERROR,checkout-api request timeout while waiting for database connection
+2026-01-01T10:04:00Z,WARN,checkout-api retry queue length increased

@@ -1,0 +1,2 @@
+The checkout-api incident is caused by database connection pool exhaustion, which triggers request timeouts and elevated 5xx errors.
+

@@ -1,0 +1,6 @@
+openai
+PyYAML
+pandas
+numpy
+FlagEmbedding
+torch

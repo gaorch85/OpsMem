@@ -1,0 +1,18 @@
+[
+  {
+    "alertName": "CheckoutHighErrorRate",
+    "level": "P1",
+    "startAt": "2026-01-01T10:00:00Z",
+    "labels": {
+      "alertname": "CheckoutHighErrorRate",
+      "level": "P1",
+      "instance": "host-01",
+      "app_name": "checkout-api",
+      "description": "The checkout-api service is returning elevated 5xx errors.",
+      "itemvalue": "18.4",
+      "metric_unit": "%",
+      "metricKey": "request.error.rate"
+    }
+  }
+]
+

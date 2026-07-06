@@ -1,0 +1,12 @@
+command,output
+"systemctl status checkout-api","checkout-api.service - Checkout API
+   Loaded: loaded
+   Active: active (running)
+   Main PID: 1024 (python)
+   Status: running but reporting upstream database timeout errors"
+"ps aux | grep checkout-api","app      1024  78.0  14.2  checkout-api --config /etc/opsmem-example/checkout.yaml
+app      1088   0.0   0.0  grep checkout-api"
+"netstat -anp | grep 5432","tcp  0  0 host-01:49152 db-primary:5432 ESTABLISHED 1024/python
+tcp  0  0 host-01:49153 db-primary:5432 ESTABLISHED 1024/python
+tcp  0  0 host-01:49154 db-primary:5432 ESTABLISHED 1024/python"
+

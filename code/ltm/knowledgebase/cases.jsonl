@@ -1,0 +1,3 @@
+{"case_id":"33333333-3333-4333-8333-333333333333","symptoms":["checkout-api 5xx spike","database connection timeout"],"root_cause":"database connection pool exhaustion","content":"In the sanitized case, checkout-api stayed running but logs showed database connection pool exhaustion and the pool utilization metric reached 100 percent at the alarm time. The final diagnosis was database connection pool exhaustion causing request timeouts and 5xx errors."}
+
+
