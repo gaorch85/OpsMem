@@ -1,4 +1,4 @@
-# OpsMem: A Dual-Memory Framework for Failure Diagnosis with Cross-Memory Resonance
+# OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis
 
 <div align="center">
   <a href=""><img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&style=flat-square" alt="arXiv"></a>
