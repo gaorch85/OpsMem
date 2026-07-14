@@ -1,7 +1,7 @@
 # OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis
 
 <div align="center">
-  <a href=""><img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&style=flat-square" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2607.11357"><img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&style=flat-square" alt="arXiv"></a>
   <a href="https://github.com/gaorch85/OpsMem/blob/main/LICENSE">  <img src="https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=flat-square" alt="License"></a>
 </div>
 
